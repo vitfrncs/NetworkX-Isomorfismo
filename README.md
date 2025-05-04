@@ -52,7 +52,7 @@ pip install networkx matplotlib
 
 ---
 
-## 🚀 Execução
+## Execução
 
 Execute o script Python principal para visualizar e analisar exemplos:
 
@@ -62,7 +62,7 @@ python isomorfismo.py
 
 ---
 
-## 🖼️ Visualização dos Grafos
+## Visualização dos Grafos
 
 Utilizamos `matplotlib` para desenhar os pares de grafos lado a lado, facilitando a comparação visual.
 
